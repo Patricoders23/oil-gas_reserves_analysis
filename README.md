@@ -48,3 +48,11 @@ Sankey diagram illustrating relationships and flows in global oil and gas reserv
 
 ## 📂 Repository Structure
 
+oil-gas_reserves_analysis/
+│
+├── Analisis_FINAL_4_Modulos.ipynb # Main analysis notebook
+├── data/ # Raw and processed datasets
+├── examples/ # Generated figures and visual outputs
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+
