@@ -3,7 +3,7 @@
 This repository presents an exploratory and descriptive analysis of **oil and gas reserves** using Python and data science techniques.  
 The objective is to analyze reserves distribution, regional patterns, and comparative insights between oil and gas resources.
 
-The project is designed as a **research-oriented data analysis**, suitable for academic, energy sector, and PhD-level applications.
+The project is designed as a **research-oriented data analysis**, suitable for academic, energy sector
 
 ---
 
